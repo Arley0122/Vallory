@@ -8,7 +8,6 @@
 body {
     background: linear-gradient(to right, #816948, #9C8057);
     height: 100vh;
-    overflow: hidden;
 }
 
 .border {
