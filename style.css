@@ -8,6 +8,8 @@
 body {
     background: linear-gradient(to right, #816948, #9C8057);
     height: 100vh;
+    position: relative;
+    z-index: 1;
 }
 
 .border {
@@ -36,7 +38,6 @@ body {
     }
 
 }
-
 
 .container {
     /*o container é a borda ao mesmo (tempo 2 classes)*/
@@ -101,6 +102,10 @@ body {
     color: black;
     font-weight: bold;
     opacity: 80%;
+    position: relative;
+    z-index: -1;
+    text-align: justify;
+
 }
 
 .container-links a:hover {
