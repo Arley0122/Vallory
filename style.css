@@ -14,7 +14,7 @@ body {
 
 .border {
     width: 98%;
-    height: 96%;
+    min-height: 96%;
     margin-left: 1%;
     margin-top: 1%;
     border: 3px solid #816948;
