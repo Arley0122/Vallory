@@ -108,6 +108,10 @@ body {
 
 }
 
+.container-links a p{
+    width: 80px;
+}
+
 .container-links a:hover {
     background-color: #A3845A;
     box-shadow: 1px 1px 1px black;
