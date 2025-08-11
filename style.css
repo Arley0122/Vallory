@@ -106,13 +106,13 @@ body {
     opacity: 80%;
     position: relative;
     z-index: -1;
-    text-align: justify;
 
 }
 
 .container-links a p{
-    width: 100px;
+    width: 120px;
     font-size: 18px;
+    text-align: center;
 }
 
 .container-links a:hover {
