@@ -65,7 +65,7 @@ body {
 
 .title {
     color: #D0AA73;
-    text-shadow: 1px 1px 1px #9C8057;
+    text-shadow: 1px 1px 1px black;
     margin-top: 15px;
     font-size: 25px
     
@@ -164,3 +164,4 @@ body {
     animation-delay: 0s, 1s;
     opacity: 0;
 }
+
